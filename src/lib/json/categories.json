@@ -1,0 +1,155 @@
+[
+	{
+		"name": "Dairy Products and Eggs",
+		"ingredients": [
+			"Eggs",
+			"Cheese",
+			"Milk",
+			"Butter",
+			"Milk cream",
+			"Yogurt",
+			"Condensed milk",
+			"Ice Cream"
+		],
+		"image": "dairy_products_and_eggs.png"
+	},
+	{
+		"name": "Flours and Yeasts",
+		"ingredients": [
+			"Wheat flour",
+			"Sprinkle",
+			"Breadcrumbs",
+			"Hominy",
+			"Cassava flour",
+			"Corn meal",
+			"Linseed",
+			"Chemical yeast"
+		],
+		"image": "flours_and_yeasts.png"
+	},
+	{
+		"name": "Seasonings and Spices",
+		"ingredients": ["Cinnamon", "Clove", "Oregano", "Nutmeg", "Thyme", "Black pepper", "Cumin"],
+		"image": "seasonings_and_spices.png"
+	},
+	{
+		"name": "Oils, Fats and Vinegars",
+		"ingredients": [
+			"Vinegars",
+			"Oil",
+			"Palm Oil",
+			"Olive oil",
+			"Lard",
+			"Balsamic vinegar",
+			"Coconut oil"
+		],
+		"image": "oils_fats_and_vinegars.png"
+	},
+	{
+		"name": "Vegetables and Greens",
+		"ingredients": [
+			"Onion",
+			"Garlic",
+			"Tomato",
+			"Pumpkin",
+			"Zucchini",
+			"Potato",
+			"Pepper",
+			"Spinach",
+			"Carrot"
+		],
+		"image": "vegetables_and_greens.png"
+	},
+	{
+		"name": "Sugars and Sweeteners",
+		"ingredients": [
+			"White sugar",
+			"Brown sugar",
+			"Crystal Sugar",
+			"molasses",
+			"Honey",
+			"Vanilla",
+			"Glucose"
+		],
+		"image": "sugars_and_sweeteners.png"
+	},
+	{
+		"name": "Animal Proteins",
+		"ingredients": [
+			"Fish",
+			"Beef",
+			"Pork",
+			"Chicken",
+			"Bacon",
+			"Sausage",
+			"Tuna",
+			"Salmon",
+			"Ham",
+			"Codfish"
+		],
+		"image": "animal_proteins.png"
+	},
+	{
+		"name": "Grains, Cereals and Legumes",
+		"ingredients": ["Rice", "Bean", "Oat", "Pea", "Lentil", "Chickpea", "Corn", "Sesame", "Quinoa"],
+		"image": "grains_cereals_and_legumes.png"
+	},
+	{
+		"name": "Fresh fruit",
+		"ingredients": [
+			"Banana",
+			"Apple",
+			"Uva",
+			"Pear",
+			"Lime",
+			"Strawberry",
+			"Plum",
+			"Raspberry",
+			"Pineapple"
+		],
+		"image": "fresh_fruit.png"
+	},
+	{
+		"name": "Dry fruits",
+		"ingredients": [
+			"Cashew nut",
+			"Brazil nuts",
+			"Pass grape",
+			"Damascus",
+			"Pistachio",
+			"Almond",
+			"Peanut"
+		],
+		"image": "dry_fruits.png"
+	},
+	{
+		"name": "Breads and Pasta",
+		"ingredients": [
+			"Bread",
+			"Flatbread",
+			"Tortilla",
+			"Noodle",
+			"Gnocchi",
+			"Pastry dough",
+			"Lasagna pasta",
+			"Cookie",
+			"Cornbread"
+		],
+		"image": "breads_and_pasta.png"
+	},
+	{
+		"name": "Sweets and Treats",
+		"ingredients": [
+			"Chocolate",
+			"Jelly",
+			"Guava Paste",
+			"Caramel",
+			"Chantilly",
+			"Cocoa powder",
+			"Sigh",
+			"Gelatin",
+			"Peanut candy"
+		],
+		"image": "sweets_and_treats.png"
+	}
+]

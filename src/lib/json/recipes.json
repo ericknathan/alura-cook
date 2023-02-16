@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Roasted Garlic Paste",
+		"ingredients": ["Garlic", "Olive oil"],
+		"image": "roasted_garlic_paste.png"
+	},
+	{
+		"name": "Roasted Garlic Pate",
+		"ingredients": ["Garlic", "Olive oil"],
+		"image": "roasted_garlic_pate.png"
+	},
+	{
+		"name": "Roasted Garlic",
+		"ingredients": ["Garlic", "Olive oil", "Oregano"],
+		"image": "roasted_garlic.png"
+	},
+	{
+		"name": "Garlic rice",
+		"ingredients": ["Rice", "Garlic", "Oil"],
+		"image": "garlic_rice.png"
+	},
+	{
+		"name": "Garlic bread",
+		"ingredients": ["Bread", "Butter", "Garlic", "Oregano"],
+		"image": "garlic_bread.png"
+	},
+	{
+		"name": "Garlic and Oil Pasta",
+		"ingredients": ["Noodle", "Garlic", "Oil", "Butter"],
+		"image": "garlic_and_oil_pasta.png"
+	},
+	{
+		"name": "Codfish with garlic chips",
+		"ingredients": ["Codfish", "Garlic", "Olive oil", "Lime"],
+		"image": "codfish_with_garlic_chips.png"
+	},
+	{
+		"name": "Butter with thyme and garlic",
+		"ingredients": ["Butter", "Garlic", "Thyme"],
+		"image": "butter_with_thyme_and_garlic.png"
+	},
+	{
+		"name": "Pie with pumpkin filling",
+		"ingredients": ["Pastry dough", "Pumpkin", "Tomato", "Garlic", "Oil", "Breadcrumbs", "Nutmeg"],
+		"image": "pie_with_pumpkin_filling.png"
+	},
+	{
+		"name": "Chicken cream",
+		"ingredients": ["Chicken", "Milk", "Milk cream", "Corn", "Eggs"],
+		"image": "chicken_cream.png"
+	},
+	{
+		"name": "Pancake",
+		"ingredients": ["Wheat flour", "Butter", "Milk", "Eggs"],
+		"image": "pancake.png"
+	},
+	{
+		"name": "Chocolate milk shake",
+		"ingredients": ["Chocolate", "Chantilly"],
+		"image": "chocolate_milk_shake.png"
+	},
+	{
+		"name": "Chocolate mousse",
+		"ingredients": ["Milk cream", "Chocolate", "Eggs", "Butter"],
+		"image": "chocolate_mousse.png"
+	}
+]
